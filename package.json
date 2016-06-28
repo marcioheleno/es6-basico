@@ -1,0 +1,19 @@
+{
+  "name": "es6-basico",
+  "version": "1.0.0",
+  "description": "estudo es6-basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcioheleno/es6-basico.git"
+  },
+  "author": "marcio heleno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcioheleno/es6-basico/issues"
+  },
+  "homepage": "https://github.com/marcioheleno/es6-basico#readme"
+}
